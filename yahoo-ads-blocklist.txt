@@ -1,0 +1,7 @@
+ads.yahoo.com
+adserver.yahoo.com
+analytics.yahoo.com
+advertising.yahoo.com
+gemini.yahoo.com
+yahooads.g.doubleclick.net
+media.yahoo.com
