@@ -1,3 +1,4 @@
+safeframe.googlesyndication.com
 imasdk.googleapis.com
 www.googleadservices.com
 pagead2.googlesyndication.com
